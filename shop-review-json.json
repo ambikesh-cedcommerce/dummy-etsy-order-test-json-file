@@ -1,0 +1,78 @@
+{
+    "success": true,
+    "data": {
+        "count": 2,
+        "results": [
+            {
+                "shop_id": 39706313,
+                "listing_id": 1411165718,
+                "transaction_id": 1,
+                "buyer_user_id": 736168297,
+                "rating": 1,
+                "review": "Hi this is dummy shop review",
+                "language": "en",
+                "image_url_fullxfull": "https://example.com",
+                "create_timestamp": 946684800,
+                "created_timestamp": 946684800
+                "update_timestamp": 946684800,
+                "updated_timestamp": 946684800
+            },
+            {
+                "shop_id": 39706313,
+                "listing_id": 1418635881,
+                "transaction_id": 1,
+                "buyer_user_id": 958745658,
+                "rating": 1,
+                "review": "Hi this is the second dummy shop review",
+                "language": "en",
+                "image_url_fullxfull": "https://example.com",
+                "create_timestamp": 946684800,
+                "created_timestamp": 946684800,
+                "update_timestamp": 946684800,
+                "updated_timestamp": 946684800
+            },
+            {
+                "shop_id": 39706313,
+                "listing_id": 1411165718,
+                "transaction_id": 1,
+                "buyer_user_id": 4568748456,
+                "rating": 1,
+                "review": "Hi this is dummy shop review",
+                "language": "en",
+                "image_url_fullxfull": "https://example.com",
+                "create_timestamp": 946684800,
+                "created_timestamp": 946684800,
+                "update_timestamp": 946684800,
+                "updated_timestamp": 946684800
+            },
+            {
+                "shop_id": 39706313,
+                "listing_id": 1418635881,
+                "transaction_id": 1,
+                "buyer_user_id": 125478596,
+                "rating": 1,
+                "review": "Hi this is the second dummy shop review",
+                "language": "en",
+                "image_url_fullxfull": "https://example.com",
+                "create_timestamp": 946684800,
+                "created_timestamp": 946684800,
+                "update_timestamp": 946684800,
+                "updated_timestamp": 946684800
+            },
+            {
+                "shop_id": 39706313,
+                "listing_id": 1418635881,
+                "transaction_id": 1,
+                "buyer_user_id": 447859657,
+                "rating": 1,
+                "review": "Hi this is the second dummy shop review latest",
+                "language": "en",
+                "image_url_fullxfull": "https://example.com",
+                "create_timestamp": 946684800,
+                "created_timestamp": 946684800,
+                "update_timestamp": 946684800,
+                "updated_timestamp": 946684800
+            }
+        ]
+    }
+}
